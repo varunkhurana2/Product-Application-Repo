@@ -1,0 +1,6 @@
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.BusinessObject\obj\Debug\ProductApp.BusinessObject.csprojAssemblyReference.cache
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.BusinessObject\obj\Debug\ProductApp.BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.BusinessObject\bin\Debug\ProductApp.BusinessObject.dll
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.BusinessObject\bin\Debug\ProductApp.BusinessObject.pdb
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.BusinessObject\obj\Debug\ProductApp.BusinessObject.dll
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.BusinessObject\obj\Debug\ProductApp.BusinessObject.pdb

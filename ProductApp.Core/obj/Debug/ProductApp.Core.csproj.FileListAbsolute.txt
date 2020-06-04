@@ -1,0 +1,9 @@
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.Core\obj\Debug\ProductApp.Core.csprojAssemblyReference.cache
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.Core\obj\Debug\ProductApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.Core\bin\Debug\ProductApp.Core.dll
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.Core\bin\Debug\ProductApp.Core.pdb
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.Core\bin\Debug\ProductApp.BusinessObject.dll
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.Core\bin\Debug\ProductApp.BusinessObject.pdb
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.Core\obj\Debug\ProductApp.Core.csproj.CopyComplete
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.Core\obj\Debug\ProductApp.Core.dll
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.Core\obj\Debug\ProductApp.Core.pdb

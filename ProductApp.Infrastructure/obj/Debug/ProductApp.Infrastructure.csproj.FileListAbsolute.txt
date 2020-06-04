@@ -1,0 +1,16 @@
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.Infrastructure\obj\Debug\ProductApp.Infrastructure.csprojAssemblyReference.cache
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.Infrastructure\obj\Debug\ProductApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.Infrastructure\bin\Debug\ProductApp.Infrastructure.dll.config
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.Infrastructure\bin\Debug\ProductApp.Infrastructure.dll
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.Infrastructure\bin\Debug\ProductApp.Infrastructure.pdb
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.Infrastructure\bin\Debug\ProductApp.BusinessObject.dll
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.Infrastructure\bin\Debug\ProductApp.Core.dll
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.Infrastructure\bin\Debug\ProductApp.BusinessObject.pdb
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.Infrastructure\bin\Debug\ProductApp.Core.pdb
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.Infrastructure\obj\Debug\ProductApp.Infrastructure.csproj.CopyComplete
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.Infrastructure\obj\Debug\ProductApp.Infrastructure.dll
+C:\Users\sai\source\repos\ProductApp.Web\ProductApp.Infrastructure\obj\Debug\ProductApp.Infrastructure.pdb
